@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.ho-ma-im{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+.ho-ma-heading{
+    color: #ffffff;
+    padding: 11px;
+    font-size: 35px;
+}
+.ho-sm-im{
+    height: 15vh;
+    width: 21vh;
+}
+.aln{
+    text-align: center;
+}
+.mar{
+    margin: 20px;
+}
+.ho-sm-heading{
+    font-size: 18px;
+    color: #151765;
+}
+.ho-sm-para{
+    color: #5a7184;
+}
+.j-im{
+    height: 18vh;
+    width: 21vh;
+}
+.j-bg-co{
+    background-color: #151765;
+    height:24vh;
+    background-size: cover;
+    color: #ffffff;
+    padding: 15px;
+}
+.j-box-heading{
+    font-size: 22px;
+    font-weight: bold;
+}
+.j-box-para{
+    font-size: 15px;
+}
+.j-st-pa{
+    font-family: Roboto;
+}
+.j-pad{
+    padding: 5px;
+}
+.j-heading{
+    font-size: 20px;
+    font-weight: bold;
+    color: #151765;
+}
+.j-para{
+    color: #5a7184;
+}
+.j-ti{
+    font-size: 12px;
+    color: #5a7184;
+}
+.j-mar{
+    margin: 15px;
+}
+.but{
+    height: 5vh;
+    width: 15vh;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #151765;
+    color: #ffffff;
+    border-width: 0px;
+}
+.j-aln{
+    text-align: right;
+}
